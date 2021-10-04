@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **an android app.**
 
-- 🌱 I’m currently learning **JSON & API's.**
+- 🌱 I’m currently learning **Python, Bots & API's.**
 
 - 👯 I’m looking to collaborate on **GitHub.**
 
