@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf" /></a> </p>
 
-- 🔭 I’m currently working on **an android app.**
+- 🔭 I’m currently working on **Android Apps and Twitter Bots.**
 
 - 🌱 I’m currently learning **Python, Bots & API's.**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Android, smartphones and other tech realted stuff.**
 
-- 📫 How to reach me <b><a href="https://linkedin.com/in/pradumnasaraf" target="blank">Twiiter</a></b>
+- 📫 Reach me on<b><a href="https://linkedin.com/in/pradumnasaraf" target="blank">Twiiter</a></b>
 
 - 📄 Know about my experiences <b><a href="https://linkedin.com/in/pradumnasaraf" target="blank">LinkedIn</a></b>
 
