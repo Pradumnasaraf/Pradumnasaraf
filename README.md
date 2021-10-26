@@ -1,6 +1,8 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23030A0E&size=29&lines=Hi+%F0%9F%91%8B%2C+I'm+Pradumna+Saraf"></p>
+
 <!-- <h1 align="center">Hi 👋, I'm Pradumna Saraf</h1> -->
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Pradumna Saraf</h1>
-<h3 align="center">An Android Developer</h3>
+<!--<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Pradumna Saraf</h1>-->
+<h3 align="center">Android Development | Open Source </h3>
 
 <p align="left"> <a href="https://twitter.com/pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf" /></a> </p>
 
