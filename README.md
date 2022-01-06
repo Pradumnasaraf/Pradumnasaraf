@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Android Apps and Twitter Bots**.
 
-- 🌱 I’m currently learning **Python, Bots,  APIs**.
+- 🌱 I’m currently learning **Blockchain, JS and APIs**.
 
 - 👯 I’m looking to collaborate on **GitHub**.
 
