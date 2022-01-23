@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf" /></a> </p>
 
-- 🔭 I’m currently working on **Android Apps and Twitter Bots**.
+- 🔭 I’m currently working on **Smart Contracts**.
 
 - 🌱 I’m currently learning **Blockchain, JS and APIs**.
 
