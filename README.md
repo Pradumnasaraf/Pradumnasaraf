@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact: **For almost half of my life, I am using computers.**
 
-<h3 align="left">Checkout my blog</h3>
-
-<a href="https://pradumnasaraf.hashnode.dev/"><img src="https://user-images.githubusercontent.com/90956475/150676699-8a42d7f2-9be1-4bb9-b5e9-1fb1a9029ad7.png" width=150>
+## My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -42,6 +42,6 @@
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=pradumnasaraf" alt="pradumnasaraf" width="48%"/>
 </p>
 <h3 align="left">Watch my contribution graph get eaten by the snake! 🐍</h3>
-<p align="center"><img src="https://github.com/pradumnasaraf/pradumnasaraf/blob/output/github-contribution-grid-snake.gif"></p>
+<p align="center"><img src="https://github.com/pradumnasaraf/pradumnasaraf/blob/output/github-contribution-grid-snake.svg"></p>
 
 
