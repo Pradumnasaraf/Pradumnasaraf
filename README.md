@@ -19,7 +19,7 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//6-git-commands-you-may-not-know" title="6 git commands, you may not know."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643556393904/OSlj35UxE.png" alt="6 git commands, you may not know." width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//6-git-commands-you-may-not-know" title="6 git commands, you may not know."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644649172068/VAuSLvUmv.jpeg" alt="6 git commands, you may not know." width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//6-git-commands-you-may-not-know" title="6 git commands, you may not know."><strong>6 git commands, you may not know.</strong></a>
 <br/> Here are some of the top git commands which I handpicked, that can be useful to increase your productivity, and also save your some time.
 1) Updating the last commit message.
