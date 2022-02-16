@@ -19,17 +19,18 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644912626693/mu9DmeJub.png" alt="How to host a website within a minute for FREE!" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><strong>How to host a website within a minute for FREE!</strong></a>
+<br/> Yes!! you heard it right, with the help of GitHub Pages you can host a website within a minute, for FREE.
+So what are GitHub Pages?
+
+GitHub Pages is a static website hosting service that takes HTML, CSS, and JavaScript files straight from a repositor... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//6-git-commands-you-may-not-know" title="6 git commands, you may not know."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644649172068/VAuSLvUmv.jpeg" alt="6 git commands, you may not know." width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//6-git-commands-you-may-not-know" title="6 git commands, you may not know."><strong>6 git commands, you may not know.</strong></a>
 <br/> Here are some of the top git commands which I handpicked, that can be useful to increase your productivity, and also save your some time.
 1) Updating the last commit message.
 If you want to update the message of your last commit, because either it di... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//want-to-learn-about-git-and-github-in-a-more-fun-way" title="Want to learn about git and GitHub in a more fun way?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642949309263/9j9b2Uulo.png" alt="Want to learn about git and GitHub in a more fun way?" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//want-to-learn-about-git-and-github-in-a-more-fun-way" title="Want to learn about git and GitHub in a more fun way?"><strong>Want to learn about git and GitHub in a more fun way?</strong></a>
-<br/> We always watch tons of videos and tutorials and skim through lots of documentation to learn some concept or any programming language.
-But you know you can learn git and GitHub in a more fun way like playing games or visualizing.
-YES! you head it rig... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me</h3>
