@@ -1,3 +1,4 @@
+
 <!--<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%230032FF&size=25&lines=+++++++++++++Hi+%F0%9F%91%8B%2C+I'm+Pradumna+Saraf+++++++++++++"></p>-->
 
  <h1 align="center">Hi 👋, I'm Pradumna Saraf</h1>
@@ -8,11 +9,11 @@
 
 - 🔭 I’m currently working on **Smart Contracts**.
 
-- 🌱 I’m currently learning **Blockchain, JS and APIs**.
+- 🌱 I’m currently learning **Blockchain, JS, and APIs**.
 
 - 👯 I’m looking to collaborate on **GitHub**.
 
-- 💬 Ask me about **Open Source, Android, Blockchain, smartphones and other tech realted stuff.**
+- 💬 Ask me about **Open Source, Android, Blockchain, smartphones, and other tech-related stuff.**
 
 - ⚡ Fun fact: **For almost half of my life, I am using computers.**
 
@@ -22,7 +23,7 @@
 <a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644912626693/mu9DmeJub.png" alt="How to host a website within a minute for FREE!" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><strong>How to host a website within a minute for FREE!</strong></a>
 <br/> Yes!! you heard it right, with the help of GitHub Pages you can host a website within a minute, for FREE.
-So what are GitHub Pages?
+So what is GitHub Pages?
 
 GitHub Pages is a static website hosting service that takes HTML, CSS, and JavaScript files straight from a repositor... </p> <br/> <br/>
 <p align="left">
