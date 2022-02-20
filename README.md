@@ -23,7 +23,7 @@
 <a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644912626693/mu9DmeJub.png" alt="How to host a website within a minute for FREE!" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><strong>How to host a website within a minute for FREE!</strong></a>
 <br/> Yes!! you heard it right, with the help of GitHub Pages you can host a website within a minute, for FREE.
-So what is GitHub Pages?
+So what are GitHub Pages?
 
 GitHub Pages is a static website hosting service that takes HTML, CSS, and JavaScript files straight from a repositor... </p> <br/> <br/>
 <p align="left">
