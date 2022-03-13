@@ -3,7 +3,7 @@
 
  <h1 align="center">Hi 👋, I'm Pradumna Saraf</h1>
 <!--<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Pradumna Saraf</h1>-->
-<h3 align="center">App & Bot Developer | Open Source | Conent Creator </h3>
+<h3 align="center">App & Bot Developer | Open Source | Content Creator </h3>
 
 <!--<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf" /></a> </p>-->
 
