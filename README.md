@@ -33,19 +33,18 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//what-is-a-version-control-system-vcs" title="What is a Version control system (VCS)?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648882081766/kn77pVz7P.png" alt="What is a Version control system (VCS)?" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//what-is-a-version-control-system-vcs" title="What is a Version control system (VCS)?"><strong>What is a Version control system (VCS)?</strong></a>
+<br/> Version control helps in recording changes made to files by keeping a track of modifications done to the code. It is the core of Open Source software. It has become one of the essential skills.
+Why use VCS?
+Team Collaboration - Many developers can wo... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//what-is-open-source" title="What is Open Source?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648796842528/FfGjd1y2M.png" alt="What is Open Source?" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//what-is-open-source" title="What is Open Source?"><strong>What is Open Source?</strong></a>
 <br/> Open Source or Open source software is software with source code publically available, anyone can inspect, modify, and enhance.
 Why Open Source?
 ✔️ Community - Millions of developers are actively contributing to the projects.
 ✔️ Transparency - As cod... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644912626693/mu9DmeJub.png" alt="How to host a website within a minute for FREE!" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//how-to-host-a-website-within-a-minute-for-free" title="How to host a website within a minute for FREE!"><strong>How to host a website within a minute for FREE!</strong></a>
-<br/> Yes!! you heard it right, with the help of GitHub Pages you can host a website within a minute, for FREE.
-So what are GitHub Pages?
-
-GitHub Pages is a static website hosting service that takes HTML, CSS, and JavaScript files straight from a repositor... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
