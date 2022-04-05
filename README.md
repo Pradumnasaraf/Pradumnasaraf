@@ -33,17 +33,17 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//what-is-a-repository" title="What is a repository?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056869061/utoYHjqro.png" alt="What is a repository?" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//what-is-a-repository" title="What is a repository?"><strong>What is a repository?</strong></a>
+<br/> A repository is usually used to organize a single project. Repositories can contain folders and files, README, images, videos, spreadsheets, and anything your project needs.
+Creating a repository (GitHub)
+For ease, I made a graphic, on how to create ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//what-is-a-code-hosting-platform" title="What is a code hosting platform?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648968669974/RgE0RAFqb.png" alt="What is a code hosting platform?" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//what-is-a-code-hosting-platform" title="What is a code hosting platform?"><strong>What is a code hosting platform?</strong></a>
 <br/> It's a web hosting facility for the source code of the software, documentation, web pages, and other works. They are often used in open-source software projects. 
 Why code hosting platform?
 ▪️ Collaboration - Many developers can develop/use a single ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//what-is-a-version-control-system-vcs" title="What is a Version control system (VCS)?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648882081766/kn77pVz7P.png" alt="What is a Version control system (VCS)?" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//what-is-a-version-control-system-vcs" title="What is a Version control system (VCS)?"><strong>What is a Version control system (VCS)?</strong></a>
-<br/> Version control helps in recording changes made to files by keeping a track of modifications done to the code. It is the core of Open Source software. It has become one of the essential skills.
-Why use VCS?
-Team Collaboration - Many developers can wo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
