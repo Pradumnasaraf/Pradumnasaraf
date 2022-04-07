@@ -33,18 +33,23 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//what-is-pull-request-pr" title="What is Pull Request (PR)?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649227264682/jTS_GoeBc.png" alt="What is Pull Request (PR)?" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//what-is-pull-request-pr" title="What is Pull Request (PR)?"><strong>What is Pull Request (PR)?</strong></a>
+<br/> Requesting your changes to get added into the original/main repo.
+We made changes on Fork and then create a PR from our branch to the main repo.
+▶️Changes can be of any type:
+▪️Code
+▪️Documentation
+▪️Design, etc.
+Firstly what is Fork?
+The fork is mak... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//what-is-an-open-source-contribution" title="What is an Open Source contribution?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649144859508/hCJ2wdfBK.png" alt="What is an Open Source contribution?" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//what-is-an-open-source-contribution" title="What is an Open Source contribution?"><strong>What is an Open Source contribution?</strong></a>
 <br/> ▪️ Open Source contribution is giving back to the communities, by improving the projects by making valuable changes to them, make them better.
 ▪️ Communities are the core and most valuable part of Open Source.
 Why contribute to open source?
 ▪️ Paybac... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//what-is-a-repository" title="What is a repository?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649056869061/utoYHjqro.png" alt="What is a repository?" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//what-is-a-repository" title="What is a repository?"><strong>What is a repository?</strong></a>
-<br/> A repository is usually used to organize a single project. Repositories can contain folders and files, README, images, videos, spreadsheets, and anything your project needs.
-Creating a repository (GitHub)
-For ease, I made a graphic, on how to create ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
