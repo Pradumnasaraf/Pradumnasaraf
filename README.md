@@ -33,6 +33,15 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//what-are-the-issues" title="What are the Issues?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649318261250/8IZhQK3Uf.png" alt="What are the Issues?" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//what-are-the-issues" title="What are the Issues?"><strong>What are the Issues?</strong></a>
+<br/> What is an Issue?
+Issues are ways/methods that inform the repository owner about anything which needs attention, or keep track of like:
+▪️ Bug reporting
+▪️ Feature request
+▪️ Documentation chnages. 
+🤝Raising an issue also counts as an Open Source co... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//what-is-pull-request-pr" title="What is Pull Request (PR)?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649227264682/jTS_GoeBc.png" alt="What is Pull Request (PR)?" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//what-is-pull-request-pr" title="What is Pull Request (PR)?"><strong>What is Pull Request (PR)?</strong></a>
 <br/> Requesting your changes to get added into the original/main repo.
@@ -43,13 +52,6 @@ We made changes on Fork and then create a PR from our branch to the main repo.
 ▪️Design, etc.
 Firstly what is Fork?
 The fork is mak... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//what-is-an-open-source-contribution" title="What is an Open Source contribution?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649144859508/hCJ2wdfBK.png" alt="What is an Open Source contribution?" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//what-is-an-open-source-contribution" title="What is an Open Source contribution?"><strong>What is an Open Source contribution?</strong></a>
-<br/> ▪️ Open Source contribution is giving back to the communities, by improving the projects by making valuable changes to them, make them better.
-▪️ Communities are the core and most valuable part of Open Source.
-Why contribute to open source?
-▪️ Paybac... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
