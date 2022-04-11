@@ -33,6 +33,13 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//community-profile" title="Community profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649571782656/oVB9vpTN9.png" alt="Community profile" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//community-profile" title="Community profile"><strong>Community profile</strong></a>
+<br/> The community profile help grows the community and supports contributors. 
+A project includes recommended community health files, such as README, CODE_OF_CONDUCT, LICENSE, etc in a supported location.
+Community profile checklist:
+▪️ As a repository o... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//what-is-a-gist" title="What is a Gist?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649489703602/wHU5ZIdb-.png" alt="What is a Gist?" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//what-is-a-gist" title="What is a Gist?"><strong>What is a Gist?</strong></a>
 <br/> It is a feature added to GitHub that allows the sharing of code snippets, notes, and to-do lists, without creating a repo.
@@ -43,12 +50,6 @@ Creating a Gist:
 Steps:
 0) Head over to gist.github.com.
 1) Paste the ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//what-are-branches" title="What are Branches?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649402191231/l09NPDp8x.png" alt="What are Branches?" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//what-are-branches" title="What are Branches?"><strong>What are Branches?</strong></a>
-<br/> A branch is a version of the repository that diverges from the main working project.
-In simple words, with branches, we a taking a copy of the code to work and experiment, inside a repo, so that we don't disturb the mainline.
-Why do we need branches?... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
