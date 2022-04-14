@@ -33,18 +33,18 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649833694015/zHE5nNyY-.png" alt="Open Source tools" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><strong>Open Source tools</strong></a>
+<br/> Tools that help contributors and maintainers to easily contribute toward the Open Source projects and maintain the projects.
+▶️Gitpod
+Gitpod is a ready-to-code developer environment automated dev environment for each task. It's a cloud-based developm... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//github-profile" title="GitHub Profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649747057891/KOxvtNDHw.png" alt="GitHub Profile" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//github-profile" title="GitHub Profile"><strong>GitHub Profile</strong></a>
 <br/> GitHub profile
 A GitHub profile is a feature of GitHub that allows users to write details about themselves such as their skills, interests, and GitHub stats, and showcase them to the GitHub community. 
 It’s shown at the top of your GitHub home page.
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//open-source-community" title="Open Source Community"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649658397588/TxkRUdoqx.png" alt="Open Source Community" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//open-source-community" title="Open Source Community"><strong>Open Source Community</strong></a>
-<br/> The Open Source community is diverse and highly motivated. You'll be able to find someone who can help you (or that you can help) no matter what your interests are.
-It's not only about Open Source, every community has a similar core value.
-Why join c... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
