@@ -33,18 +33,18 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//open-source-best-practices" title="Open Source best practices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649916779364/mIsVg2yZ9.png" alt="Open Source best practices" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//open-source-best-practices" title="Open Source best practices"><strong>Open Source best practices</strong></a>
+<br/> Following some good practices, help you streamline your Open Source contribution and help you a lot while selecting a project and contributing to it.
+Here are some of the best Open Source practices.
+➤ Here are some of the best Open Source practices.
+... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649833694015/zHE5nNyY-.png" alt="Open Source tools" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><strong>Open Source tools</strong></a>
 <br/> Tools that help contributors and maintainers to easily contribute toward the Open Source projects and maintain the projects.
 ▶️Gitpod
 Gitpod is a ready-to-code developer environment automated dev environment for each task. It's a cloud-based developm... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//github-profile" title="GitHub Profile"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649747057891/KOxvtNDHw.png" alt="GitHub Profile" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//github-profile" title="GitHub Profile"><strong>GitHub Profile</strong></a>
-<br/> GitHub profile
-A GitHub profile is a feature of GitHub that allows users to write details about themselves such as their skills, interests, and GitHub stats, and showcase them to the GitHub community. 
-It’s shown at the top of your GitHub home page.
-... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
