@@ -33,18 +33,17 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650005174145/ksDdgDRw4.png" alt="Open Source programs" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><strong>Open Source programs</strong></a>
+<br/> ➤ Open Source Programs/events:
+Learning is a never-ending process, to keep you on track, many organizations host and runs different types of Open Source programs. All programs run with one core value awareness and increase literacy about the Open Sou... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.co//open-source-best-practices" title="Open Source best practices"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649916779364/mIsVg2yZ9.png" alt="Open Source best practices" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//open-source-best-practices" title="Open Source best practices"><strong>Open Source best practices</strong></a>
 <br/> Following some good practices, help you streamline your Open Source contribution and help you a lot while selecting a project and contributing to it.
 Here are some of the best Open Source practices.
 ➤ Here are some of the best Open Source practices.
 ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1649833694015/zHE5nNyY-.png" alt="Open Source tools" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//open-source-tools" title="Open Source tools"><strong>Open Source tools</strong></a>
-<br/> Tools that help contributors and maintainers to easily contribute toward the Open Source projects and maintain the projects.
-▶️Gitpod
-Gitpod is a ready-to-code developer environment automated dev environment for each task. It's a cloud-based developm... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <details>
