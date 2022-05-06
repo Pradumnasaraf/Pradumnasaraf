@@ -4,9 +4,11 @@
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
-I advocate 🥑 for <b>Open Source</b> to spread literacy and working with communities and groups to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
+  
+I advocate 🥑 for **Open Source** to spread literacy and working with communities and groups to bring more people into Open Source and help them in their first-ever **Open Source contribution** .
 
-I started with developing Andriod Apps and currently transiting to the Web and exploring **DevOps** and Blockchain. I like building projects like Bot and automation tools with scalable APIs (Discord, Twitter, etc).
+I started with developing **Andriod** Applications, and currently transitioning to the Web and exploring **DevOps** and **Blockchain**. I like building projects like **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc). Some of my projects [DDRSS], []
+  
 </div>
 
 #### Achivents
