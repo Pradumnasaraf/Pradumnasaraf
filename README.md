@@ -1,6 +1,5 @@
 ![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/167126279-58f20b60-2852-470e-ab2e-359b201d8811.png)
 
-
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 <div align="center">
   
@@ -10,11 +9,7 @@ I started with developing **Andriod** Apps and currently transitioning to the **
   
 </div>
 
-### Achivents
-
-
 ### My Latest Blog Posts 👇
-
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650005174145/ksDdgDRw4.png" alt="Open Source programs" width="250px" align="left" /></a>
@@ -34,6 +29,15 @@ Here are some of the best Open Source practices.
 <p align="center"><b>FOR MORE BLOG ⬇</b></p>
 <p><a href="https://blog.pradumnasaraf.co"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
+
+### Achievement
+
+- Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
+- Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)                 
+
+
+
+
 
 <!--
 <details>
