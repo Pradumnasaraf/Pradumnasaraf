@@ -2,7 +2,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
-
 <div align="center">
   
 I advocate 🥑 for **Open Source** to spread literacy and working with communities and groups to bring more people into Open Source and help them in their first-ever **Open Source contribution** .
@@ -11,10 +10,11 @@ I started with developing **Andriod** Apps and currently transitioning to the **
   
 </div>
 
-#### Achivents
+### Achivents
 
 
-#### My Latest Blog Posts 👇
+### My Latest Blog Posts 👇
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650005174145/ksDdgDRw4.png" alt="Open Source programs" width="250px" align="left" /></a>
@@ -30,6 +30,12 @@ Here are some of the best Open Source practices.
 ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<div align="center">
+<p align="center"><b>FOR MORE BLOG ⬇</b></p>
+<p><a href="https://blog.pradumnasaraf.co"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+</div>
+
+<!--
 <details>
   <summary>Contribution badges</summary>
   <p align ="center">
@@ -37,8 +43,9 @@ Here are some of the best Open Source practices.
      <img src ="https://github-readme-streak-stats.herokuapp.com?user=pradumnasaraf" alt="pradumnasaraf" width="48%"/>
   </p>
 </details>
-
+-->
 <!--
+
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pradumna_saraf" height="30" width="40" /></a>
