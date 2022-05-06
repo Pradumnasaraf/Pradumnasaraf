@@ -31,7 +31,7 @@ Here are some of the best Open Source practices.
 <p><a href="https://blog.pradumnasaraf.co"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
-### Achievement
+### Achievements
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
 - 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)                 
