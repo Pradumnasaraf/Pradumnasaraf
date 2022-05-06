@@ -2,10 +2,17 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
-<h4 align="center">I advocate for Open Source to spread literacy and work with communities and groups to bring more people into Open Source and help them in their first-ever contribution.<h4>
+<div align="center">
+  <p>I advocate 🥑 for <b>Open Source</b> to spread literacy and work with communities and groups to bring more people into Open Source and help them in their first-ever contribution.</p>
+
+<p> I build 
+</p> 
+</div>
+
+#### Achivents
 
 
-### My Latest Blog Posts 👇
+#### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.pradumnasaraf.co//open-source-programs" title="Open Source programs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650005174145/ksDdgDRw4.png" alt="Open Source programs" width="250px" align="left" /></a>
