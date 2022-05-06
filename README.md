@@ -1,12 +1,12 @@
-![Pradumna Saraf GitHub Banner](https://user-images.githubusercontent.com/51878265/167123091-283ef82a-2923-4e69-95a3-4ef894cfa2cd.png)
+![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/167126279-58f20b60-2852-470e-ab2e-359b201d8811.png)
+
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
-  <p>I advocate 🥑 for <b>Open Source</b> to spread literacy and work with communities and groups to bring more people into Open Source and help them in their first-ever contribution.</p>
+<p>I advocate 🥑 for <b>Open Source</b> to spread literacy and work with communities and groups to bring more people into Open Source and help them in their first-ever contribution.</p>
 
-<p> I build 
-</p> 
+<p>I started with developing Andriod Apps and currently transiting to the web and learnings DevOps. I like building projects like Bot and automation tools with scalable APIs (Discord, Twitter, etc). </p> 
 </div>
 
 #### Achivents
