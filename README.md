@@ -1,10 +1,10 @@
-![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/167126279-58f20b60-2852-470e-ab2e-359b201d8811.png)
+[![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/167126279-58f20b60-2852-470e-ab2e-359b201d8811.png)](https://twitter.com/intent/follow?screen_name=pradumna_saraf)
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
   
-I advocate 🥑 for **Open Source** to spread literacy about it. I am working with several communities to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
+I advocate for **Open Source** to spread literacy about it. I am working with several communities to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
 
 I started with developing **Android** Apps and currently transitioning to the **Web**. I am also learning and exploring **DevOps** and **Blockchain**. I like building projects like **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc.). Some of the projects - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS) [`Botchain`](https://github.com/Pradumnasaraf/botchain).
   
