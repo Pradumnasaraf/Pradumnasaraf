@@ -1,4 +1,4 @@
-[![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/167126279-58f20b60-2852-470e-ab2e-359b201d8811.png)](https://twitter.com/intent/follow?screen_name=pradumna_saraf)
+[![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/169812709-887c41a7-d056-46a0-b7a6-7a184c403a22.png)](https://twitter.com/intent/follow?screen_name=pradumna_saraf)
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
