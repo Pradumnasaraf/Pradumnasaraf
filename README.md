@@ -4,7 +4,7 @@
 
 <div align="center">
   
-I advocate for **Open Source** to spread literacy about it. I am working with several communities to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
+I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
 
 I started with developing **Android** Apps and currently transitioning to the **Web**. I am also learning and exploring **DevOps** and **Blockchain**. I like building projects like **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc.). Some of the projects - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS) [`Botchain`](https://github.com/Pradumnasaraf/botchain).
   
