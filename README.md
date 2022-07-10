@@ -4,10 +4,10 @@
 
 <div align="center">
   
-I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into Open Source and help them in their first-ever **Open Source contribution**.
+I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into the Open Source ecosystem and help them in their first-ever **Open Source contribution**.
 
-I started with developing **Android** Apps and currently transitioning to the **Web**. I am also learning and exploring **DevOps** and **Blockchain**. I like building projects like **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc.). Some of the projects - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS) [`Botchain`](https://github.com/Pradumnasaraf/botchain).
-  
+I started with developing **Android** Apps and currently transitioning to the **Web**. I am a **DevOps** and **API** developer. Also, I like building **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc.). Some of the projects - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS) [`Botchain`](https://github.com/Pradumnasaraf/botchain).
+
 </div>
 
 ### My Latest Blog Posts 👇
@@ -15,7 +15,9 @@ I started with developing **Android** Apps and currently transitioning to the **
 <p align="left">
 <a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657334365776/hR6arXuRe.png" alt="Getting started with Conventional Commits" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><strong>Getting started with Conventional Commits</strong></a>
-<br/> So, what is a Conventional Commit?
+<br/> 
+
+So, what is a Conventional Commit?
 Conventional Commits is a lightweight convention on top of commit messages. In simple, pre-fix the commit messages with some sets of pre-defined rules. It makes commit self-explanatory what type of commit it is.
 Syn... </p> <br/> <br/>
 <p align="left">
