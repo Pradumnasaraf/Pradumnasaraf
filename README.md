@@ -13,7 +13,7 @@ I started with developing **Android** Apps and currently transitioning to the **
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657334365776/hR6arXuRe.png" alt="Getting started with Conventional Commits" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1657520658035/JWiW1xUts5.png" alt="Getting started with Conventional Commits" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.co//getting-started-with-conventional-commits" title="Getting started with Conventional Commits"><strong>Getting started with Conventional Commits</strong></a>
 <br/> So, what is a Conventional Commit?
 Conventional Commits is a lightweight convention on top of commit messages. In simple, pre-fix the commit messages with some sets of pre-defined rules. It makes commit self-explanatory what type of commit it is.
