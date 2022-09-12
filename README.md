@@ -4,9 +4,11 @@
 
 <div align="center">
   
-I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into the Open Source ecosystem and help them in their first-ever **Open Source contribution**.
+I am a **DevOps** and **API** developer. I like building tools (CLI and Automation ) with scalable APIs.
 
-I started with developing **Android** Apps and currently transitioning to the **Web**. I am a **DevOps** and **API** developer. Also, I like building **Bot** and **Automation tools** with scalable APIs (Discord, Twitter, etc.). Some of the projects - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS) [`Botchain`](https://github.com/Pradumnasaraf/botchain).
+Also, I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into the Open Source ecosystem.
+
+<br>
 
 </div>
 
