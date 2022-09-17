@@ -1,3 +1,12 @@
+## [1.3.2](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.1...v1.3.2) (2022-09-17)
+
+
+### Bug Fixes
+
+* the extra space ([c13caf8](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c13caf810ae4260920a3745e62bc69d2b2b3983e))
+
+
+
 ## [1.3.1](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.0...v1.3.1) (2022-07-10)
 
 
