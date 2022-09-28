@@ -6,7 +6,7 @@
   
 I am a **DevOps** and **API** developer. I like building tools (CLI and Automation) with scalable APIs.
 
-I advocate for **Open Source** literacy and inclusivity. I am working with several communities to bring more people into the Open Source ecosystem.
+I advocate for **Open Source** literacy and inclusivity. I work with communities to bring more people into the Open Source ecosystem.
 
 <br>
 
