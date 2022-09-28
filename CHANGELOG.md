@@ -1,3 +1,12 @@
+## [1.3.3](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.2...v1.3.3) (2022-09-28)
+
+
+### Bug Fixes
+
+* update the header text ([4370b7b](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/4370b7bf6c47dad78a93515973ca1451ea1d2b38))
+
+
+
 ## [1.3.2](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.1...v1.3.2) (2022-09-17)
 
 
@@ -27,10 +36,6 @@
 ### Features
 
 * Added workflows ([2dba9ce](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/2dba9cef5454a775cc5dc92a73c78e180bbe59e6))
-
-
-
-# 1.5.0 (2022-03-04)
 
 
 
