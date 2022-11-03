@@ -15,15 +15,15 @@ I advocate for **Open Source** literacy and inclusivity. I work with communities
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663265868416/mMczT28fW.png" alt="5 ways to find projects in Hacktoberfest" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>5 ways to find projects in Hacktoberfest</strong></a>
+<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663265868416/mMczT28fW.png" alt="5 ways to find projects in Hacktoberfest" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>5 ways to find projects in Hacktoberfest</strong></a>
 <br/> So, what is Hacktoberfest?
 Hacktoberfest is a yearly Open Source celebration/event in October to encourage more people to contribute to open source. It's all about learning and giving back to the community.
 Why should you take part?
 It's fun working ... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660738940511/Z6-7aWbue.png" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.co//automate-your-releases-on-github" title="Automate your releases on GitHub."><strong>Automate your releases on GitHub.</strong></a>
+<a href="https://blog.pradumnasaraf.dev/automate-your-releases-on-github" title="Automate your releases on GitHub."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660738940511/Z6-7aWbue.png" alt="Automate your releases on GitHub." width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/automate-your-releases-on-github" title="Automate your releases on GitHub."><strong>Automate your releases on GitHub.</strong></a>
 <br/> So, what are releases?
 Packaging/bundling software and making it available for a broader audience for download and use.
 Why use them?
