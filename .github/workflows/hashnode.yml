@@ -19,6 +19,6 @@ jobs:
           USERNAME: 'Pradumnasaraf' # Hashnode Username
           COUNT: 2 # MAX Visisble
           STYLE: "blog-left"
-          BLOG_URL: "https://blog.pradumnasaraf.co/"
+          BLOG_URL: "https://blog.pradumnasaraf.dev"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
