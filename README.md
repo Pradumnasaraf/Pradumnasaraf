@@ -35,7 +35,7 @@ To follow Semantic v... </p> <br/> <br/>
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://blog.pradumnasaraf.co"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
+<p><a href="https://blog.pradumnasaraf.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
 </div>
 
 ### Achievements
