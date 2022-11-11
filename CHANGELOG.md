@@ -1,3 +1,12 @@
+## [1.3.5](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.4...v1.3.5) (2022-11-11)
+
+
+### Bug Fixes
+
+* broken blog link ([c390e49](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c390e490c9158f316f9c0e89d466d2da7f019f7b))
+
+
+
 ## [1.3.4](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.3...v1.3.4) (2022-11-03)
 
 
