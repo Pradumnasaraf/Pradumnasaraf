@@ -1,3 +1,12 @@
+## [1.3.6](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.5...v1.3.6) (2022-11-25)
+
+
+### Bug Fixes
+
+* alignment of banner ([16e05bf](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/16e05bffb809b4431131f24fbb5ede69b25e5477))
+
+
+
 ## [1.3.5](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.4...v1.3.5) (2022-11-11)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * the extra space ([c13caf8](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c13caf810ae4260920a3745e62bc69d2b2b3983e))
-
-
-
-## [1.3.1](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.0...v1.3.1) (2022-07-10)
-
-
-### Bug Fixes
-
-* text in the README ([2365d8b](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/2365d8b74f71e23a8cc029e7d2ddd4af9a501364))
 
 
 
