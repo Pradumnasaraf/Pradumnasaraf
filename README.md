@@ -1,15 +1,13 @@
-[![GitHub Banner - Pradumna Saraf](https://user-images.githubusercontent.com/51878265/169812709-887c41a7-d056-46a0-b7a6-7a184c403a22.png)](https://twitter.com/intent/follow?screen_name=pradumna_saraf)
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/169812709-887c41a7-d056-46a0-b7a6-7a184c403a22.png"></p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
   
-I am a **DevOps** and **API** developer. I like building tools (CLI and Automation) with scalable APIs.
+I am a **DevOps** and **API** developer. I like building tools (CLI and Automation) with scalable APIs. I advocate for **Open Source** literacy and inclusivity. I work with communities to bring more people into the Open Source ecosystem.
 
-I advocate for **Open Source** literacy and inclusivity. I work with communities to bring more people into the Open Source ecosystem.
-
-<br>
-
+<br>  
+  
 </div>
 
 ### My Latest Blog Posts 👇
