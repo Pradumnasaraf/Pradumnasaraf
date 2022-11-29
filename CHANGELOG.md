@@ -1,3 +1,12 @@
+## [1.3.7](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.6...v1.3.7) (2022-11-29)
+
+
+### Bug Fixes
+
+* FUNDING.yaml ([b1febd3](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/b1febd35333d8f99d42c6aa4ae562182328cb383))
+
+
+
 ## [1.3.6](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.5...v1.3.6) (2022-11-25)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * update the header text ([4370b7b](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/4370b7bf6c47dad78a93515973ca1451ea1d2b38))
-
-
-
-## [1.3.2](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.1...v1.3.2) (2022-09-17)
-
-
-### Bug Fixes
-
-* the extra space ([c13caf8](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c13caf810ae4260920a3745e62bc69d2b2b3983e))
 
 
 
