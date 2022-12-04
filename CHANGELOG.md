@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.7...v1.4.0) (2022-12-04)
+
+
+### Features
+
+* updated banner + hashnode section ([1d8a334](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/1d8a3349cc550d2af0a78a98cb6593275d15a476))
+
+
+
 ## [1.3.7](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.6...v1.3.7) (2022-11-29)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * GitHub Action. ([a9e89a7](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/a9e89a7ab588f5aeb18c0253b04909e2c2ecc629))
-
-
-
-## [1.3.3](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.2...v1.3.3) (2022-09-28)
-
-
-### Bug Fixes
-
-* update the header text ([4370b7b](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/4370b7bf6c47dad78a93515973ca1451ea1d2b38))
 
 
 
