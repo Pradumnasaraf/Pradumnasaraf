@@ -1,4 +1,4 @@
-<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/169812709-887c41a7-d056-46a0-b7a6-7a184c403a22.png"></p>
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/205508670-e28ff604-6c94-4435-ad29-140638333ead.png"></p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge" alt="pradumna_saraf"/></a></p>
 
@@ -31,10 +31,8 @@ To keep track of type and amount of changes.
 To follow Semantic v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<div align="center">
-<p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://blog.pradumnasaraf.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a></p>
-</div>
+<p align="center"><a href="https://blog.pradumnasaraf.dev"><img height="120" src="https://user-images.githubusercontent.com/51878265/205508585-1c7f345e-ed95-4f51-bb64-821fff8e8797.png"></a></p>
+
 
 ### Achievements
 
