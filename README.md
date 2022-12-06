@@ -31,11 +31,10 @@ To keep track of type and amount of changes.
 To follow Semantic v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<p align="center"><a href="https://blog.pradumnasaraf.dev"><img height="120" src="https://user-images.githubusercontent.com/51878265/205508585-1c7f345e-ed95-4f51-bb64-821fff8e8797.png"></a></p>
+<p align="center"><a href="https://blog.pradumnasaraf.dev"><img src="https://user-images.githubusercontent.com/51878265/205865969-0c7ef571-9c92-42f9-ab10-50b5bd7df2d6.png"></a></p>
 
 
 ### Achievements
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
 - 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)                 
-
