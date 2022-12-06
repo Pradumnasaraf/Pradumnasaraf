@@ -1,3 +1,12 @@
+## [1.4.1](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.0...v1.4.1) (2022-12-06)
+
+
+### Bug Fixes
+
+* hashnode resizing ([224ff45](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/224ff453d70de907f99a626e687324d3eff39daf))
+
+
+
 # [1.4.0](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.7...v1.4.0) (2022-12-04)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * broken blog link ([c390e49](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c390e490c9158f316f9c0e89d466d2da7f019f7b))
-
-
-
-## [1.3.4](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.3...v1.3.4) (2022-11-03)
-
-
-### Bug Fixes
-
-* GitHub Action. ([a9e89a7](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/a9e89a7ab588f5aeb18c0253b04909e2c2ecc629))
 
 
 
