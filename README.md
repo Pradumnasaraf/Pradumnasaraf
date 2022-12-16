@@ -19,17 +19,8 @@ I am a **DevOps** and **API** developer. I like building tools (CLI and Automati
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671169959137/TjOgNp2-P.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><strong>5 ways to find projects in Open Source</strong></a>
-<br/> Good First Issue Finder by EddieHub Community
-
-It finds good first issues from all over GitHub and gives you a list of them. We can further filter down the Issues by clicking the labels.
-
-Link - finder.eddiehub.io
-
-
-
-GitHub's advanced search.
-
-GitHub... </p> <br/> <br/>
+<br/> One of the challenges faced by a beginner is to find an Open Source project to contribute. The best way to kick start your contribution is by contributing to friends and community projects.
+In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center"><a href="https://blog.pradumnasaraf.dev"><img src="https://user-images.githubusercontent.com/51878265/205865969-0c7ef571-9c92-42f9-ab10-50b5bd7df2d6.png"></a></p>
