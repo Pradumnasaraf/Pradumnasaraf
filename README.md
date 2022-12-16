@@ -17,12 +17,19 @@ I am a **DevOps** and **API** developer. I like building tools (CLI and Automati
 <a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion."><strong>How collaboration helped me find my passion.</strong></a>
 <br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663265868416/mMczT28fW.png" alt="5 ways to find projects in Hacktoberfest" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-hacktoberfest" title="5 ways to find projects in Hacktoberfest"><strong>5 ways to find projects in Hacktoberfest</strong></a>
-<br/> So, what is Hacktoberfest?
-Hacktoberfest is a yearly Open Source celebration/event in October to encourage more people to contribute to open source. It's all about learning and giving back to the community.
-Why should you take part?
-It's fun working ... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671169959137/TjOgNp2-P.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><strong>5 ways to find projects in Open Source</strong></a>
+<br/> Good First Issue Finder by EddieHub Community
+
+It finds good first issues from all over GitHub and gives you a list of them. We can further filter down the Issues by clicking the labels.
+
+Link - finder.eddiehub.io
+
+
+
+GitHub's advanced search.
+
+GitHub... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center"><a href="https://blog.pradumnasaraf.dev"><img src="https://user-images.githubusercontent.com/51878265/205865969-0c7ef571-9c92-42f9-ab10-50b5bd7df2d6.png"></a></p>
