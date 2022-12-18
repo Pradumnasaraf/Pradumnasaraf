@@ -1,3 +1,12 @@
+## [1.4.2](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.1...v1.4.2) (2022-12-18)
+
+
+### Bug Fixes
+
+* the social badge ([3dbd796](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/3dbd796494ae4c705d5ba9f48e451bebff29c858))
+
+
+
 ## [1.4.1](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.0...v1.4.1) (2022-12-06)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * alignment of banner ([16e05bf](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/16e05bffb809b4431131f24fbb5ede69b25e5477))
-
-
-
-## [1.3.5](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.4...v1.3.5) (2022-11-11)
-
-
-### Bug Fixes
-
-* broken blog link ([c390e49](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/c390e490c9158f316f9c0e89d466d2da7f019f7b))
 
 
 
