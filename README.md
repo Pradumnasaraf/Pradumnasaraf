@@ -13,8 +13,8 @@ I am a **DevOps** and **API** developer. I like building tools (CLI and Automati
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671024284920/Ak-mF6Kjh.png" alt="How collaboration helped me find my passion." width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion."><strong>How collaboration helped me find my passion.</strong></a>
+<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671024284920/Ak-mF6Kjh.png" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><strong>How collaboration helped me find my passion</strong></a>
 <br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671169959137/TjOgNp2-P.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
