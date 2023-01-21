@@ -1,6 +1,6 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/205508670-e28ff604-6c94-4435-ad29-140638333ead.png"></p>
 
-<!-- <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://img.shields.io/twitter/follow/pradumna_saraf?logo=twitter&style=for-the-badge&color=1DA1F2" alt="pradumna_saraf"/></a> <a href="https://www.youtube.com/channel/UCUFg1QZfv5i-8InddFMJj7Q"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCUFg1QZfv5i-8InddFMJj7Q?style=for-the-badge&logo=youtube&label=YOUTUBE"></a></p> -->
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/213865864-b6f8d38a-21d4-495d-bebd-ef2978033ae4.png" height="45" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
   
@@ -29,4 +29,4 @@ In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
 ### Achievements
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
-- 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)                
+- 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)      
