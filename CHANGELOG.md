@@ -1,3 +1,12 @@
+## [1.4.3](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.2...v1.4.3) (2023-01-21)
+
+
+### Bug Fixes
+
+* remove twitter badge ([d22b6c2](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/d22b6c2ea74a661966d9ee895e87b62ebbccc115))
+
+
+
 ## [1.4.2](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.1...v1.4.2) (2022-12-18)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * FUNDING.yaml ([b1febd3](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/b1febd35333d8f99d42c6aa4ae562182328cb383))
-
-
-
-## [1.3.6](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.5...v1.3.6) (2022-11-25)
-
-
-### Bug Fixes
-
-* alignment of banner ([16e05bf](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/16e05bffb809b4431131f24fbb5ede69b25e5477))
 
 
 
