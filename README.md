@@ -24,9 +24,6 @@ I am a **DevOps** and **Node.js** developer. I like building tools (CLI and Auto
 In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-<p align="center"><a href="https://blog.pradumnasaraf.dev"><img src="https://user-images.githubusercontent.com/51878265/210104338-3ffcc1b8-c966-405b-8958-7ece2e122723.png"></a></p>
-
-
 ### Achievements
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
