@@ -28,5 +28,3 @@ In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
 - 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)      
-
-![Add a subheading]()
