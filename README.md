@@ -20,8 +20,8 @@ I am a **DevOps** and **Node.js** developer. I like building tools (CLI and Auto
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671169959137/TjOgNp2-P.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><strong>5 ways to find projects in Open Source</strong></a>
-<br/> One of the challenges faced by a beginner is to find an Open Source project to contribute. The best way to kick start your contribution is by contributing to friends and community projects.
-In the Blog, we will look at some built-in GitHub functional... </p> <br/> <br/>
+<br/> One of the challenges beginners face is finding an Open Source project to contribute to. The best way to start contributing is by participating in friends and community projects.
+In the blog, we will explore some of the built-in GitHub functionalitie... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
