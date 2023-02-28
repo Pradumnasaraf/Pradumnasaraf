@@ -14,14 +14,13 @@ I am a **DevOps** and **Node.js** developer. I like building tools (CLI and Auto
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.dev/ways-to-get-more-contributors-to-your-open-source-project" title="Ways to get more contributors to your Open Source project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677558986535/d30088b8-8bca-41d1-be7c-c80c171b0caf.png" alt="Ways to get more contributors to your Open Source project" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/ways-to-get-more-contributors-to-your-open-source-project" title="Ways to get more contributors to your Open Source project"><strong>Ways to get more contributors to your Open Source project</strong></a>
+<br/> One of the issues faced by open-source project owners/maintainers is not getting enough contributors to their projects. The problem is not that there are fewer contributors, but the project's presentation and structure need to be improved to attract ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677527418078/fc12023f-dd2c-4f81-9b3a-0bc9d196190c.png" alt="How collaboration helped me find my passion" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/how-collaboration-helped-me-find-my-passion" title="How collaboration helped me find my passion"><strong>How collaboration helped me find my passion</strong></a>
 <br/> Collaboration is all about growing and learning together. Everyone has their expertise, and by collaborating, we can share our knowledge and experiences so that other people can learn and grow. In this Blog, I have taken a storytelling approach to co... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677527316433/4be2a226-083e-45c7-a226-fa048570fcc4.png" alt="5 ways to find projects in Open Source" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/5-ways-to-find-projects-in-open-source" title="5 ways to find projects in Open Source"><strong>5 ways to find projects in Open Source</strong></a>
-<br/> One of the challenges beginners face is finding an Open Source project to contribute to. The best way to start contributing is by participating in friends and community projects.
-In the blog, we will explore some of the built-in GitHub functionalitie... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
