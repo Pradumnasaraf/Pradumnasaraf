@@ -2,10 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/221372860-b02b0737-3583-406c-a236-ba07c95cbcb7.png" height="36" alt="pradumna_saraf"/></a></p>
 
-
 <div align="center">
   
-I am a DevOps and Go developer who enjoys building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
+I am a DevOps and Go developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
 
