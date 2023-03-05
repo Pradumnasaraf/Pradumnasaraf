@@ -5,9 +5,7 @@
 
 <div align="center">
   
-I am a **DevOps** and **Node.js** developer. I like building tools (CLI and Automation) with scalable APIs. I advocate for **Open Source** literacy and inclusivity. I work with communities to bring more people into the Open Source ecosystem.
-
-<br>  
+I am a DevOps and Go developer who enjoys building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
 
