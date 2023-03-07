@@ -24,5 +24,3 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
 - 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)      
-
-![Add a subheading](https://user-images.githubusercontent.com/51878265/223410833-1a653242-8c6c-4b72-a151-a97e1ecb8597.png)
