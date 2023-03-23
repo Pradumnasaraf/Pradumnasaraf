@@ -13,18 +13,8 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679344142742/25c940d9-8914-4659-8a03-172d3a0b37f1.png" alt="Publish a Docker image on DockerHub with GitHub Actions" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><strong>Publish a Docker image on DockerHub with GitHub Actions</strong></a>
-<br/> In this tutorial, we will learn how to automate the process of building and pushing a Docker image to DockerHub using GitHub Actions.
-Prerequisites
-
-A GitHub account
-
-A Dockerhub account
-
-Basic understanding of YAML (Not mandatory)
-
-
-Steps
-Create a G... </p> <br/> <br/>
+<br/> Automating Docker image building and pushing to DockerHub can bring significant benefits to your development process, including increased consistency, efficiency, version control, ease of deployment, and scalability.  
+In this tutorial, we will learn... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/go-api-with-mux" title="Build a Hello World API with Go and Mux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678293815435/875b06b2-9892-4881-bc79-00de07f15c4c.png" alt="Build a Hello World API with Go and Mux" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/go-api-with-mux" title="Build a Hello World API with Go and Mux"><strong>Build a Hello World API with Go and Mux</strong></a>
