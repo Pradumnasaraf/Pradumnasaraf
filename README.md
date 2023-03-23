@@ -11,13 +11,24 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679344142742/25c940d9-8914-4659-8a03-172d3a0b37f1.png" alt="Publish a Docker image on DockerHub with GitHub Actions" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><strong>Publish a Docker image on DockerHub with GitHub Actions</strong></a>
+<br/> In this tutorial, we will learn how to automate the process of building and pushing a Docker image to DockerHub using GitHub Actions.
+Prerequisites
+
+A GitHub account
+
+A Dockerhub account
+
+Basic understanding of YAML (Not mandatory)
+
+
+Steps
+Create a G... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.pradumnasaraf.dev/go-api-with-mux" title="Build a Hello World API with Go and Mux"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678293815435/875b06b2-9892-4881-bc79-00de07f15c4c.png" alt="Build a Hello World API with Go and Mux" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/go-api-with-mux" title="Build a Hello World API with Go and Mux"><strong>Build a Hello World API with Go and Mux</strong></a>
 <br/> Are you looking to learn how to build a simple API using Mux in Go? Look no further! In this blog post, we will walk through step-by-step instructions on how to create your own "Hello, World!" API using Mux in Go. We will cover the prerequisites you ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.pradumnasaraf.dev/ways-to-get-more-contributors-to-your-open-source-project" title="Ways to get more contributors to your Open Source project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677558986535/d30088b8-8bca-41d1-be7c-c80c171b0caf.png" alt="Ways to get more contributors to your Open Source project" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/ways-to-get-more-contributors-to-your-open-source-project" title="Ways to get more contributors to your Open Source project"><strong>Ways to get more contributors to your Open Source project</strong></a>
-<br/> One of the issues faced by open-source project owners/maintainers is not getting enough contributors to their projects. The problem is not that there are fewer contributors, but the project's presentation and structure need to be improved to attract ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
