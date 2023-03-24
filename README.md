@@ -11,7 +11,7 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679344142742/25c940d9-8914-4659-8a03-172d3a0b37f1.png" alt="Publish a Docker image on DockerHub with GitHub Actions" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679552989254/f6b2cb3a-6362-46ab-981d-1e46eb1de298.png" alt="Publish a Docker image on DockerHub with GitHub Actions" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/dockerhub-githubactions" title="Publish a Docker image on DockerHub with GitHub Actions"><strong>Publish a Docker image on DockerHub with GitHub Actions</strong></a>
 <br/> Automating Docker image building and pushing to DockerHub can bring significant benefits to your development process, including increased consistency, efficiency, version control, ease of deployment, and scalability.  
 In this tutorial, we will learn... </p> <br/> <br/>
