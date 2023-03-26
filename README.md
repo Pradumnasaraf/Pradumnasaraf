@@ -25,5 +25,3 @@ In this tutorial, we will learn... </p> <br/> <br/>
 
 - 🏆 Winner - Daily.dev RSS Feed Hackathon. - [`DDRSS`](https://github.com/Pradumnasaraf/DDRSS)           
 - 🏆 Winner - Postman API Fest 2022. - [`Note API`](https://github.com/Pradumnasaraf/Postman-API-Fest-22)      
-
-![Social banner (8)]()
