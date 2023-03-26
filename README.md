@@ -1,9 +1,9 @@
-<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/205508670-e28ff604-6c94-4435-ad29-140638333ead.png"></p>
+<p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/227762348-6b9ecc01-b016-46a4-8f95-bd0ec1cf9cbe.png"></p>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/223411118-0a9d8731-315c-40fb-88d5-8e6db369a773.png" height="36" alt="pradumna_saraf"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/227762239-f258334d-131c-49f8-8bfe-92e0290dedcc.png" height="36" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
-  
+
 I am a DevOps and Go developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
   
 </div>
