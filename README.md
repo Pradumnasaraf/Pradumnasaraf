@@ -1,6 +1,6 @@
 <p align="center"><img alt="Profile Banner" src="https://user-images.githubusercontent.com/51878265/227764366-ff0cd90f-8e5d-45c7-b1f9-f95105ba5d66.png"></p>
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/232294776-97be3673-7769-4621-82fe-c34285816751.png" height="36" alt="pradumna_saraf"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="https://user-images.githubusercontent.com/51878265/235479468-2e025565-78b3-4a91-9a64-a86949eeb9f9.png" height="36" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
 
