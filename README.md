@@ -13,7 +13,7 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/6-must-know-docker-commands" title="6 Must-Know Docker Commands For Efficient Operations"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686473557517/fca1d7eb-eb9c-4b8e-ac8c-18487afc8b16.png" alt="6 Must-Know Docker Commands For Efficient Operations" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/6-must-know-docker-commands" title="6 Must-Know Docker Commands For Efficient Operations"><strong>6 Must-Know Docker Commands For Efficient Operations</strong></a>
-<div><strong>14 June 2023</strong> | <strong>Updated: 14 June 2023</strong></div>
+<div><strong>14 June 2023</strong> | <strong>Updated: 16 June 2023</strong></div>
 <br/> Docker is an amazing piece of technology. There are tons of commands to remember, and using the right set of commands can ease down and optimize the workflow.
 In this blog post, we will share Docker tips and tricks to make your container management e... </p> <br/> <br/>
 <p align="left">
