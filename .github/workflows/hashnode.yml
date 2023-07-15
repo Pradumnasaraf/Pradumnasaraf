@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
           USERNAME: 'Pradumnasaraf' # Hashnode Username
-          COUNT: 2 # MAX Visisble
+          COUNT: 1 # MAX Visisble
           STYLE: "blog-left"
           BLOG_URL: "https://blog.pradumnasaraf.dev"
         env:
