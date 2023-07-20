@@ -14,9 +14,7 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 <a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689656680646/0e0863e5-1434-4c3d-8e33-ed691cf06591.png" alt="6 Must-Know Docker Compose Tips" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><strong>6 Must-Know Docker Compose Tips</strong></a>
 <div><strong>20 July 2023</strong></div>
-<br/> In this post, you will learn how to make the most of Docker Compose. Discover the art of customizing Dockerfiles, keeping your environment variables secure, and building images with ease.
-
-Customizing Dockerfile Name and Path: We can easily customize... </p> <br/> <br/>
+<br/> In this post, you will learn how to make the most of Docker Compose. Discover the art of customizing Dockerfiles, keeping your environment variables secure, and building images with ease... </p>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
