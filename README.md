@@ -11,11 +11,12 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/6-must-know-docker-commands" title="6 Must-Know Docker Commands For Efficient Operations"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686473557517/fca1d7eb-eb9c-4b8e-ac8c-18487afc8b16.png" alt="6 Must-Know Docker Commands For Efficient Operations" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/6-must-know-docker-commands" title="6 Must-Know Docker Commands For Efficient Operations"><strong>6 Must-Know Docker Commands For Efficient Operations</strong></a>
-<div><strong>14 June 2023</strong> | <strong>Updated: 16 June 2023</strong></div>
-<br/> Docker is an amazing piece of technology. There are tons of commands to remember, and using the right set of commands can ease down and optimize the workflow.
-In this blog post, we will share Docker tips and tricks to make your container management e... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689656680646/0e0863e5-1434-4c3d-8e33-ed691cf06591.png" alt="6 Must-Know Docker Compose Tips" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><strong>6 Must-Know Docker Compose Tips</strong></a>
+<div><strong>20 July 2023</strong></div>
+<br/> In this post, you will learn how to make the most of Docker Compose. Discover the art of customizing Dockerfiles, keeping your environment variables secure, and building images with ease.
+
+Customizing Dockerfile Name and Path: We can easily customize... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
