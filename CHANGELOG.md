@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.5.0...v1.5.1) (2023-09-21)
+
+
+### Bug Fixes
+
+* Twitter badge ([7a6f4ae](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/7a6f4aec67541a0c01f68a019c9c466064c464d5))
+
+
+
 # [1.5.0](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.4.3...v1.5.0) (2023-07-11)
 
 
@@ -38,15 +47,6 @@
 ### Bug Fixes
 
 * hashnode resizing ([224ff45](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/224ff453d70de907f99a626e687324d3eff39daf))
-
-
-
-# [1.4.0](https://github.com/Pradumnasaraf/Pradumnasaraf/compare/v1.3.7...v1.4.0) (2022-12-04)
-
-
-### Features
-
-* updated banner + hashnode section ([1d8a334](https://github.com/Pradumnasaraf/Pradumnasaraf/commit/1d8a3349cc550d2af0a78a98cb6593275d15a476))
 
 
 
