@@ -11,10 +11,10 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689656680646/0e0863e5-1434-4c3d-8e33-ed691cf06591.png" alt="6 Must-Know Docker Compose Tips" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/docker-compose-tips-1" title="6 Must-Know Docker Compose Tips"><strong>6 Must-Know Docker Compose Tips</strong></a>
-<div><strong>20 July 2023</strong></div>
-<br/> In this post, you will learn how to make the most of Docker Compose. Discover the art of customizing Dockerfiles, keeping your environment variables secure, and building images with ease... </p>
+<a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701171368269/a080e932-2876-495e-8e71-275e3cc51474.png" alt="Dockerize your application in a minute with Docker INIT" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><strong>Dockerize your application in a minute with Docker INIT</strong></a>
+<div><strong>28 Nov 2023</strong></div>
+<br/> Docker Init is changing the game in how we Dockerize our application. With docker init, we can quickly generate the Dockerfile, compose.yml, and .dockerignore. In the past...</p>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
