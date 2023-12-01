@@ -13,8 +13,10 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 <p align="left">
 <a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701171368269/a080e932-2876-495e-8e71-275e3cc51474.png" alt="Dockerize your application in a minute with Docker INIT" width="250px" align="left" /></a>
 <a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><strong>Dockerize your application in a minute with Docker INIT</strong></a>
-<div><strong>28 Nov 2023</strong></div>
-<br/> Docker Init is changing the game in how we Dockerize our application. With docker init, we can quickly generate the Dockerfile, compose.yml, and .dockerignore. In the past...</p>
+<div><strong>28 Nov 2023</strong> | <strong>Updated: 28 Nov 2023</strong></div>
+<br/> Docker Init is changing the game in how we Dockerize our application.
+With docker init, we can quickly generate the Dockerfile, compose.yml, and .dockerignore. In the past, we manually created these files and implemented the best practices.
+Now, with... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
