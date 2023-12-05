@@ -11,12 +11,11 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701171368269/a080e932-2876-495e-8e71-275e3cc51474.png" alt="Dockerize your application in a minute with Docker INIT" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/dockerize-app-with-docker-init" title="Dockerize your application in a minute with Docker INIT"><strong>Dockerize your application in a minute with Docker INIT</strong></a>
-<div><strong>28 Nov 2023</strong> | <strong>Updated: 28 Nov 2023</strong></div>
-<br/> Docker Init is changing the game in how we Dockerize our application.
-With docker init, we can quickly generate the Dockerfile, compose.yml, and .dockerignore. In the past, we manually created these files and implemented the best practices.
-Now, with... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/top-docker-extensions" title="Five Docker Extensions to simplify your development experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701669861995/9e4b7acb-cc87-4aef-82c6-ddac82e6427d.png" alt="Five Docker Extensions to simplify your development experience" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/top-docker-extensions" title="Five Docker Extensions to simplify your development experience"><strong>Five Docker Extensions to simplify your development experience</strong></a>
+<div><strong>4 Dec 2023</strong> | <strong>Updated: 4 Dec 2023</strong></div>
+<br/> Docker Extensions are fairly new to the tech domain, and many people haven't explored this. I thought this would be a great opportunity to take the mic and share the word about Docker Extensions and some of them which I like and use.
+But first, what ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
