@@ -11,11 +11,10 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/top-docker-extensions" title="Five Docker Extensions to simplify your development experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701669861995/9e4b7acb-cc87-4aef-82c6-ddac82e6427d.png" alt="Five Docker Extensions to simplify your development experience" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/top-docker-extensions" title="Five Docker Extensions to simplify your development experience"><strong>Five Docker Extensions to simplify your development experience</strong></a>
-<div><strong>4 Dec 2023</strong> | <strong>Updated: 4 Dec 2023</strong></div>
-<br/> Docker Extensions are fairly new to the tech domain, and many people haven't explored this. I thought this would be a great opportunity to take the mic and share the word about Docker Extensions and some of them which I like and use.
-But first, what ... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/share-your-terminal-remotely" title="Share your Docker Compose app terminal remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703744631856/25d822e2-402a-4efd-b1ae-f68097974ea4.png" alt="Share your Docker Compose app terminal remotely" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/share-your-terminal-remotely" title="Share your Docker Compose app terminal remotely"><strong>Share your Docker Compose app terminal remotely</strong></a>
+<div><strong>28 Dec 2023</strong> | <strong>Updated: 28 Dec 2023</strong></div>
+<br/> I assume you've been in situations where you were on a call with someone, and they kept throwing different commands at you to fix an issue. On the other hand, if you're the one giving the commands, you might feel like typing in ten more just because ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
