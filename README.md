@@ -11,10 +11,11 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/share-your-terminal-remotely" title="Share your Docker Compose app terminal remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703744631856/25d822e2-402a-4efd-b1ae-f68097974ea4.png" alt="Share your Docker Compose app terminal remotely" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/share-your-terminal-remotely" title="Share your Docker Compose app terminal remotely"><strong>Share your Docker Compose app terminal remotely</strong></a>
-<div><strong>28 Dec 2023</strong> | <strong>Updated: 28 Dec 2023</strong></div>
-<br/> I assume you've been in situations where you were on a call with someone, and they kept throwing different commands at you to fix an issue. On the other hand, if you're the one giving the commands, you might feel like typing in ten more just because ... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/share-your-docker-compose-app-logs-remotely" title="Share your Docker Compose app logs remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704965574688/98637723-1ab4-4766-8ece-b307896ec331.png" alt="Share your Docker Compose app logs remotely" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/share-your-docker-compose-app-logs-remotely" title="Share your Docker Compose app logs remotely"><strong>Share your Docker Compose app logs remotely</strong></a>
+<div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
+<br/> Logs are crucial for understanding the inner workings of an application, whether it's to ensure it performs as expected or to help in debugging when encountering errors.
+However, consider a scenario where one of your teammates is working and developi... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
