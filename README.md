@@ -11,11 +11,11 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.pradumnasaraf.dev/share-your-docker-compose-app-logs-remotely" title="Share your Docker Compose app logs remotely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704965574688/98637723-1ab4-4766-8ece-b307896ec331.png" alt="Share your Docker Compose app logs remotely" width="250px" align="left" /></a>
-<a href="https://blog.pradumnasaraf.dev/share-your-docker-compose-app-logs-remotely" title="Share your Docker Compose app logs remotely"><strong>Share your Docker Compose app logs remotely</strong></a>
-<div><strong>11 Jan 2024</strong> | <strong>Updated: 11 Jan 2024</strong></div>
-<br/> Logs are crucial for understanding the inner workings of an application, whether it's to ensure it performs as expected or to help in debugging when encountering errors.
-However, consider a scenario where one of your teammates is working and developi... </p> <br/> <br/>
+<a href="https://blog.pradumnasaraf.dev/macos-vs-ubuntu" title="macOS vs Ubuntu: GitHub Actions Runners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712163686280/539a8082-6412-4aa8-8141-e222e9dace05.png" alt="macOS vs Ubuntu: GitHub Actions Runners" width="250px" align="left" /></a>
+<a href="https://blog.pradumnasaraf.dev/macos-vs-ubuntu" title="macOS vs Ubuntu: GitHub Actions Runners"><strong>macOS vs Ubuntu: GitHub Actions Runners</strong></a>
+<div><strong>05 April 2024</strong>
+<br/> In case you missed it, GitHub has made macOS Runner available for open source! This means we can now use macOS Runner for free in public repositories. You can read more about it here.
+I thought it would be a great opportunity to compare the most commonly used runners... </p> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### Achievements
