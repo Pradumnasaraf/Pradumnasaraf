@@ -8,15 +8,13 @@ I am a DevOps and Go developer. I like building CLI and automation tools. I am p
   
 </div>
 
-### My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738" title="macOS vs Ubuntu: GitHub Actions Runners"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1712163686280/539a8082-6412-4aa8-8141-e222e9dace05.png" alt="macOS vs Ubuntu: GitHub Actions Runners" width="250px" align="left" /></a>
-<a href="https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738" title="macOS vs Ubuntu: GitHub Actions Runners"><strong>macOS vs Ubuntu: GitHub Actions Runners</strong></a>
-<div><strong>05 April 2024</strong>
-<br/> In case you missed it, GitHub has made macOS Runner available for open source! This means we can now use macOS Runner for free in public repositories. You can read more about it here.
-I thought it would be a great opportunity to compare the most commonly used runners... </p> <br/>
-<!-- HASHNODE_BLOG:END -->
+<a href="https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41" title="STOP versioning your Docker Compose file"><img src="./assets/compose-version.png" alt="STOP versioning your Docker Compose file" width="250px" align="left" /></a>
+<a href="https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41" title="STOP versioning your Docker Compose file"><strong>STOP versioning your Docker Compose file</strong></a>
+<div><strong>Published on: 10 Aug 2024</strong>
+<br/> If you are a long-term Docker Compose fanatic like me, you know we have come a long way. Currently, we are using version 2 of Compose, which is written in Golang. 
+Version 1 of Compose was written in Python and has been deprecated. The last update was... </p> <br/>
 
 ### Achievements
 
