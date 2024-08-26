@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I am a DevOps and Go developer. I like building CLI and automation tools. I am passionate about promoting Open Source literacy and inclusivity.
+Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer. He is passionate about Open Source and has mentored hundreds of people to break into the ecosystem. He also creates content on X (formerly Twitter) and LinkedIn, educating others about Open Source and DevOps tools. Pradumna enjoys engaging with people in person and delivering talks.
   
 </div>
 
