@@ -10,11 +10,10 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41" title="STOP versioning your Docker Compose file"><img src="./assets/compose-version.png" alt="STOP versioning your Docker Compose file" width="250px" align="left" /></a>
-<a href="https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41" title="STOP versioning your Docker Compose file"><strong>STOP versioning your Docker Compose file</strong></a>
+<a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><img src="./assets/docker-golang.png" alt="Dockerizing a Golang API with MySQL and adding Docker Compose Support" width="250px" align="left" /></a>
+<a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><strong>Dockerizing a Golang API with MySQL and adding Docker Compose Support</strong></a>
 <div><strong>Published on: 10 Aug 2024</strong>
-<br/> If you are a long-term Docker Compose fanatic like me, you know we have come a long way. Currently, we are using version 2 of Compose, which is written in Golang. 
-Version 1 of Compose was written in Python and has been deprecated. The last update was... </p> <br/>
+<br/> Developing and testing APIs locally connected to a database is no joke. The database often becomes a pain point. However, using Docker, the process becomes easier and much simpler, making replication easy. In this blog, we will see how we can Dockerize a Golang.... </p> <br/>
 
 ### Achievements
 
