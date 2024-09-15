@@ -12,7 +12,7 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 <p align="left">
 <a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><img src="./assets/docker-golang.png" alt="Dockerizing a Golang API with MySQL and adding Docker Compose Support" width="250px" align="left" /></a>
 <a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><strong>Dockerizing a Golang API with MySQL and adding Docker Compose Support</strong></a>
-<div><strong>Published on: 10 Aug 2024</strong>
+<div><strong>Published on: 8 September 2024</strong>
 <br/> Developing and testing APIs locally connected to a database is no joke. The database often becomes a pain point. However, using Docker, the process becomes easier and much simpler, making replication easy. In this blog, we will see how we can Dockerize a Golang.... </p> <br/>
 
 ### Achievements
