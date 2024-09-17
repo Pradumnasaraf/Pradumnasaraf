@@ -11,14 +11,17 @@ jobs:
     steps:
 
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Changelog + Version update
+      - name: Conventional Changelog Action
         id: changelog
-        uses: TriPSs/conventional-changelog-action@v3
+        uses: TriPSs/conventional-changelog-action@v5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           version-file: "./version.yaml"
+          output-file: "false"
+          skip-commit: "true"
+          create-summary: 'true'
 
       - name: Create Release
         if: steps.changelog.outputs.skipped == 'false'
