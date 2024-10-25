@@ -10,7 +10,7 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><img src="./assets/docker-golang.png" alt="Dockerizing a Golang API with MySQL and adding Docker Compose Support" width="250px" align="left" /></a>
-<a href="https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1" title="Dockerizing a Golang API with MySQL and adding Docker Compose Support"><strong>Dockerizing a Golang API with MySQL and adding Docker Compose Support</strong></a>
-<div><strong>Published on: 8 September 2024</strong>
-<br/> Developing and testing APIs locally connected to a database is no joke. The database often becomes a pain point. However, using Docker, the process becomes easier and much simpler, making replication easy. In this blog, we will see how we can Dockerize a Golang.... </p> <br/>
+<a href="https://dev.to/pradumnasaraf/docker-buildx-gha-dockerhub-3h2c" title="Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions"><img src="./assets/docker-buildx-dockerhub.png" alt="Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions" width="250px" align="left" /></a>
+<a href="https://dev.to/pradumnasaraf/docker-buildx-gha-dockerhub-3h2c" title="Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions"><strong>Publishing Multi-Arch Docker image to DockerHub using Buildx and GitHub Actions</strong></a>
+<div><strong>Published on: 23 October 2024</strong>
+<br/> As you know, we have seen a huge shift in machines towards using ARM base CPUs like Apple Silicon to Snapdragon X from X86, and it's become essential to build Docker Images that support multiple architectures and run containers that are compatible and aligned with...... </p> <br/>
