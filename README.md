@@ -1,4 +1,4 @@
-<p align="center"><img alt="a black background with white text Hello, I am Pradumna Saraf" src="https://github.com/user-attachments/assets/ae484579-3985-4ac2-a6b5-bc13780b122d"></p>
+<p align="center"><img alt="a black background with white text Hello, I am Pradumna Saraf" src="https://github.com/user-attachments/assets/e2d6f1a1-bd2c-4064-9e80-bfee16510258"></p>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="./assets/pradumna-twitter-36k.png" height="36" alt="pradumna_saraf"/></a></p>
 
