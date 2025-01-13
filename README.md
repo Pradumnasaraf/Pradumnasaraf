@@ -10,7 +10,7 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/rate-limiting-a-golang-api-using-redis-ogi" title="Rate Limiting a Golang API using Redis"><img src="./assets/rate-limiting-redis.png" alt="Rate Limiting a Golang API using Redis" width="250px" align="left" /></a>
-<a href="https://dev.to/pradumnasaraf/rate-limiting-a-golang-api-using-redis-ogi" title="Rate Limiting a Golang API using Redis"><strong>Rate Limiting a Golang API using Redis</strong></a>
-<div><strong>Published on: 12 November 2024</strong>
-<br/> You might have encountered in the past getting a "rate limit exceeded" message when you tried to access a weather or a joke API. The are a lot of arguments around why to rate limit an API, but some important ones are to make fair use of it, make it secure, safeguard ...</p> <br/>
+<a href="https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j" title="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions"><img src="./assets/docker-buildx-ghcr-gha.png" alt="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions" width="250px" align="left" /></a>
+<a href="https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j" title="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions"><strong>Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions</strong></a>
+<div><strong>Published on: 21 December 2024</strong>
+<br/> The industry has seen a huge shift in machines towards using ARM base CPUs like Apple Silicon to Snapdragon X from X86, and it's become essential to build images that support multiple architectures and run containers that are compatible and aligned with that architecture ...</p> <br/>
