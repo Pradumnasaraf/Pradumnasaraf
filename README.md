@@ -10,7 +10,7 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j" title="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions"><img src="./assets/arm-based-runners.png" alt="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions" width="250px" align="left" /></a>
-<a href="https://dev.to/pradumnasaraf/publishing-multi-arch-docker-images-to-ghcr-using-buildx-and-github-actions-2k7j" title="Publishing Multi-Arch Docker images to GHCR using Buildx and GitHub Actions"><strong>Using ARM-based GitHub Actions Runners for Workflows</strong></a>
+<a href="https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o" title="Using ARM-based GitHub Actions Runners for Workflows"><img src="./assets/arm-based-runners.png" alt="Using ARM-based GitHub Actions Runners for Workflows " width="250px" align="left" /></a>
+<a href="https://dev.to/pradumnasaraf/using-arm-based-github-actions-runners-for-workflows-l6o" title="Using ARM-based GitHub Actions Runners for Workflows"><strong>Using ARM-based GitHub Actions Runners for Workflows</strong></a>
 <div><strong>Published on: 30 January 2024</strong>
 <br/> As we have observed a significant transition toward ARM-based CPUs, such as Apple’s M series and Snapdragon's X, it's essential to build, test, and deploy the product and software in a multi-architecture environment to replicate the exact...</p> <br/>
