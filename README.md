@@ -10,7 +10,7 @@ Pradumna is a Developer Advocate, Docker Captain, and a DevOps and Go Developer.
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/docker-can-run-llms-locally-wait-what-35fn" title="Docker Can Run LLMs Locally—Wait, What!?"><img src="./assets/Docker-model-runner.png" alt="Docker Can Run LLMs Locally—Wait, What!?" width="250px" align="left"/></a>
-<a href="https://dev.to/pradumnasaraf/docker-can-run-llms-locally-wait-what-35fn" title="Docker Can Run LLMs Locally—Wait, What!?"><strong>Docker Can Run LLMs Locally—Wait, What!?</strong></a>
-<div><strong>Published on: 7 April 2025</strong>
-<br/>Using Docker to run Large Language Models (LLMs) locally? Yes, you heard that right. Docker is now much more than just running a container image. With Docker Model Runner, you can run and interact with LLMs locally....</p> <br/>
+<a href="https://dev.to/pradumnasaraf/monitoring-go-applications-using-prometheus-grafana-and-docker-33i5" title="Monitoring Golang Applications with Custom Prometheus Metrics and Grafana"><img src="./assets/prom-monitor.png" alt="Monitoring Golang Applications with Custom Prometheus Metrics and Grafana" width="250px" align="left"/></a>
+<a href="https://dev.to/pradumnasaraf/monitoring-go-applications-using-prometheus-grafana-and-docker-33i5" title="Monitoring Golang Applications with Custom Prometheus Metrics and Grafana"><strong>Monitoring Golang Applications with Custom Prometheus Metrics and Grafana</strong></a>
+<div><strong>Published on: 21st April 2025</strong>
+<br/>Monitoring is important for any application. It helps us ensure that our application is running smoothly and allows us to detect any issues before they become critical. Because in real case scenarios....</p> <br/>
