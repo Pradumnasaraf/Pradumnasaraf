@@ -12,7 +12,7 @@ He is passionate about Open Source and has mentored hundreds of people to break 
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5" title="Run MCP Servers In Seconds With Docker"><img src="./assets/docker-mcp.png" alt="Run MCP Servers In Seconds With Docker" width="250px" align="left"/></a>
-<a href="https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5" title="Run MCP Servers In Seconds With Docker"><strong>Run MCP Servers In Seconds With Docker</strong></a>
-<div><strong>Published on: 25th June 2025</strong>
-<br/>Model Context Protocol (MCP) has taken the AI world by storm. It has become the de facto standard for how an AI Agent connect with tools, services, and data. As this is shaping up rapidly, working with... <a href="https://dev.to/pradumnasaraf/run-mcp-servers-in-seconds-with-docker-1ik5">read mode</a> </p> <br/>
+<a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng" title="Running AI Models with Docker Compose"><img src="./assets/docker-compose-ai.png" alt="Running AI Models with Docker Compose" width="250px" align="left"/></a>
+<a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng" title="Running AI Models with Docker Compose"><strong>Running AI Models with Docker Compose</strong></a>
+<div><strong>Published on: 19th August 2025</strong>
+<br/>Docker Compose has completely changed the game in how we run and connect a multi-service application. Just execute a single line of command, and everything is up and running, and all the services are well interconnected.... <a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng">read mode</a> </p> <br/>
