@@ -6,7 +6,7 @@
 
 </div>
 
-Pradumna is an Open Source Developer. 
+Pradumna is an Open Source Developer, Docker Captain, and Microsoft MVP. 
 
 He is passionate about Open Source and has mentored hundreds of people to break into the ecosystem. He also creates content on X (formerly Twitter) and LinkedIn, educating others about Open Source and DevOps tools. Pradumna enjoys engaging with people in person and delivering talks. To learn more about Pradumna, visit [pradumnasaraf.dev](https://pradumnasaraf.com).
 
