@@ -12,7 +12,8 @@ He is passionate about Open Source and has mentored hundreds of people to break 
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng" title="Running AI Models with Docker Compose"><img src="./assets/docker-compose-ai.png" alt="Running AI Models with Docker Compose" width="250px" align="left"/></a>
-<a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng" title="Running AI Models with Docker Compose"><strong>Running AI Models with Docker Compose</strong></a>
-<div><strong>Published on: 19th August 2025</strong>
-<br/>Docker Compose has completely changed the game in how we run and connect a multi-service application. Just execute a single line of command, and everything is up and running, and all the services are well interconnected.... <a href="https://dev.to/pradumnasaraf/running-ai-models-with-docker-compose-27ng">read mode</a> </p> <br/>
+<a href="https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia" title="Improving Container Security with Docker Hardened Images
+"><img src="./assets/docker-dhi.png" alt="Improving Container Security with Docker Hardened Images" width="250px" align="left"/></a>
+<a href="https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia" title="Improving Container Security with Docker Hardened Images"><strong>Improving Container Security with Docker Hardened Images</strong></a>
+<div><strong>Published on: 22nd December 2025</strong>
+<br/>Container security remains a significant concern. Base images are bloated and contain unnecessary/or too many tools and packages. Due to this, container images like Node, Ubuntu, etc, have a large attack surface in production. More packages = more CVEs...<a href="https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia">read mode</a> </p> <br/>
