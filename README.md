@@ -12,8 +12,8 @@ He is passionate about Open Source and has mentored hundreds of people to break 
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l" title="Using Profiles with Docker Compose
-"><img src="./assets/docker-profiles.png" alt="Improving Container Security with Docker Hardened Images" width="250px" align="left"/></a>
-<a href="https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l" title="Using Profiles with Docker Compose"><strong>Using Profiles with Docker Compose</strong></a>
-<div><strong>Published on: 29th January 2026</strong>
-<br/>Most applications don’t need all Docker Compose services running all the time with the core application, such as development tools, like monitoring and debugging. For example, in a full-stack application, we want the backend, database, and maybe a frontend running...<a href="https://dev.to/pradumnasaraf/using-profiles-with-docker-compose-238l">read mode</a> </p> <br/>
+<a href="https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo" title="Using Claude Code with Docker Model Runner
+"><img src="./assets/claude-code-dmr.png" alt="Using Claude Code with Docker Model Runner" width="250px" align="left"/></a>
+<a href="https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo" title="Using Claude Code with Docker Model Runner"><strong>Using Claude Code with Docker Model Runner</strong></a>
+<div><strong>Published on: 8th May 2026</strong>
+<br/>We know that the Claude Code is phenomenal for development and code. But we can easily run out of tokens, and it becomes quickly expensive as your project becomes more complex. What if we can keep all the good parts about the Claude Code, but use the local models instead...<a href="https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo">read mode</a> </p> <br/>
