@@ -13,7 +13,7 @@ He is passionate about Open Source and has mentored hundreds of people to break 
 ### Latest Blog Post
 <p align="left">
 <a href="https://dev.to/pradumnasaraf/run-claude-code-locally-for-free-with-docker-model-runner-3o27" title="Using Claude Code with Docker Model Runner
-"><img src="./assets/claude-code-dmr.png" alt="Using Claude Code with Docker Model Runner" width="250px" align="left"/></a>
+"><img src="./assets/run-claude-code-dmr.png" alt="Using Claude Code with Docker Model Runner" width="250px" align="left"/></a>
 <a href="https://dev.to/pradumnasaraf/run-claude-code-locally-for-free-with-docker-model-runner-3o27" title="Using Claude Code with Docker Model Runner"><strong>Using Claude Code with Docker Model Runner</strong></a>
 <div><strong>Published on: 8th May 2026</strong>
 <br/>We know that the Claude Code is phenomenal for development and code. But we can easily run out of tokens, and it becomes quickly expensive as your project becomes more complex. What if we can keep all the good parts about the Claude Code, but use the local models instead...<a href="https://dev.to/pradumnasaraf/run-claude-code-locally-for-free-with-docker-model-runner-3o27">read mode</a> </p> <br/>
