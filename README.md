@@ -12,8 +12,7 @@ He is passionate about Open Source and has mentored hundreds of people to break 
 
 ### Latest Blog Post
 <p align="left">
-<a href="https://pradumnasaraf.dev/blog/run-ai-coding-agents-safely-with-docker-sandboxes" title="Run AI Coding Agents Safely with Docker Sandboxes
-"><img src="./assets/run-ai-coding-agents-docker-sandboxes.png" alt="Run AI Coding Agents Safely with Docker Sandboxes" width="250px" align="left"/></a>
-<a href="https://pradumnasaraf.dev/blog/run-ai-coding-agents-safely-with-docker-sandboxes" title="Run AI Coding Agents Safely with Docker Sandboxes"><strong>Run AI Coding Agents Safely with Docker Sandboxes</strong></a>
-<div><strong>Published on: 4th June 2026</strong>
-<br/>AI agents can run commands, modify files, and download files from untrusted sources directly on a developer machine, which creates a major security risk. There needs to be a way to safely run agents and isolate how they interact with the network, files, host system, etc...<a href="https://pradumnasaraf.dev/blog/run-ai-coding-agents-safely-with-docker-sandboxes">read mode</a> </p> <br/>
+<a href="https://pradumnasaraf.dev/blog/dockerfile-on-vercel" title="How to Run a Dockerfile on Vercel"><img src="./assets/dockerfile-on-vercel.png" alt="How to Run a Dockerfile on Vercel" width="250px" align="left"/></a>
+<a href="https://pradumnasaraf.dev/blog/dockerfile-on-vercel" title="How to Run a Dockerfile on Vercel"><strong>How to Run a Dockerfile on Vercel</strong></a>
+<div><strong>Published on: 10th July 2026</strong>
+<br/>Vercel now supports Dockerfile deployments. Learn how to build a simple Golang server and deploy it to Vercel using a Dockerfile...<a href="https://pradumnasaraf.dev/blog/dockerfile-on-vercel">read mode</a> </p> <br/>
