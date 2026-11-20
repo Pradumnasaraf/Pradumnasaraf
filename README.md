@@ -1,7 +1,7 @@
 <p align="center"><img alt="a black background with white text Hello, I am Pradumna Saraf" src="https://github.com/user-attachments/assets/d7d91ee5-0db0-45eb-97b5-c57d0face4b8"></p>
 
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="./assets/pradumna-twitter-42k.png" height="36" alt="pradumna_saraf"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=pradumna_saraf" target="blank"><img src="./assets/pradumna-twitter-43k.png" height="36" alt="pradumna_saraf"/></a></p>
 
 <div align="center">
 
